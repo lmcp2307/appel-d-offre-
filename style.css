@@ -138,3 +138,24 @@ nav {
     color: rgb(242, 249, 250);
     text-shadow: 0.50em 0.50em 0.50em rgba(9, 20, 167, 0.705);
 }
+
+.topnav {
+  display: flex;          
+  justify-content: center; 
+  align-items: center;    
+  gap: 16px;              
+  padding: 0 20px;  
+}
+
+.topnav a {
+  color: #3fbef0;
+  text-decoration: none;
+  padding: 14px 16px;   
+  font-size: 25px;
+  transition: background 0.3s;
+}
+
+.topnav a:hover {
+  background-color: #003096;
+  color: #419bc5;
+}
