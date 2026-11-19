@@ -87,10 +87,6 @@ table {
     clear: both;
 }
 
-.text {
-    float: center
-    width: 70%;
-}
 
 .images {
     float: right;
@@ -114,20 +110,9 @@ footer {
     color: black;
 }
 
-.menu {
-    display: block
-    justify-content: center
-    align-items: center;
-    padding: 0px;
-    background-size: cover;
-    opacity: 0.0;
-    color: rgb(211, 18, 18);
-    text-shadow: 0.50em 0.50em 0.50em rgba(9, 20, 167, 0.705);
-    opacity: 1.0;
-}
 .menu-liste {
-    display : block
-    justify-content: center;
+    display : block;
+    justify-content :block;
     align-items: center;
     gap: 100px;
     list-style: none;
