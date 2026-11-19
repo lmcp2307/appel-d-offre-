@@ -1,0 +1,155 @@
+
+h1{
+    text-align: center;
+}
+div {
+    text-align: right;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+ul{
+    text-align: justify;
+}     
+image{
+    text-align:  justify;
+}
+p{
+    text-align:  justify;
+}  
+p{
+    font-family:  Arial,sans-serif;
+}   
+li{
+    font-family:  Arial,sans-serif;
+}       
+
+p {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: rgb(245, 245, 245);
+    text-shadow: 0.50em 0.50em 0.50em rgba(10, 20, 163, 0.705);
+    background-image: none;
+    background-color: transparent;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 5.0em;
+    color: rgb(245, 245, 245);
+    text-shadow: 0.50em 0.50em 0.50em rgba(10, 20, 163, 0.705);
+    background-image: none;
+    background-color: transparent;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 2.0em;
+    color: rgb(245, 245, 245);
+    text-shadow: 0.50em 0.50em 0.50em rgba(10, 20, 163, 0.705);
+    background-image: none;
+    background-color: transparent;
+}
+
+li {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: rgb(245, 245, 245);
+    text-shadow: 0.50em 0.50em 0.50em rgba(10, 20, 163, 0.705);
+    background-image: none;
+    background-color: transparent;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 1.9em;
+    color: rgb(250, 249, 249);
+    text-shadow: 0.50em 0.50em 0.50em rgba(9, 20, 167, 0.705);
+    background-image: none;
+    background-color: transparent;
+}
+
+table {
+    font-weight: bold;
+    font-size: 1.9em;
+    color: rgb(250, 249, 249);
+    text-shadow: 0.50em 0.50em 0.50em rgba(9, 20, 167, 0.705);
+    background-image: none;
+    background-color: transparent;
+}
+
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.text {
+    float: center
+    width: 70%;
+}
+
+.images {
+    float: right;
+    width: 30%;
+}
+
+img {
+    display: block;
+    padding : -500px -110px
+}
+
+table {
+    width: 800px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #000000;
+    color: black;
+}
+
+.menu {
+    display: block
+    justify-content: center
+    align-items: center;
+    padding: 0px;
+    background-size: cover;
+    opacity: 0.0;
+    color: rgb(211, 18, 18);
+    text-shadow: 0.50em 0.50em 0.50em rgba(9, 20, 167, 0.705);
+    opacity: 1.0;
+}
+.menu-liste {
+    display : block
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    list-style: none;
+    color: rgb(211, 18, 18);
+    text-shadow: 0.50em 0.50em 0.50em rgba(9, 20, 167, 0.705);
+}
+
+a{
+    color:rgb(0, 183, 255);
+}
+
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/077/414/694/non_2x/futuristic-digital-technology-network-connection-with-plexus-and-wave-flow-modern-global-communication-and-big-data-visualization-design-for-science-and-innovation-vector.jpg);
+    background-repeat: no-repeat;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    list-style: none;
+    color: rgb(242, 249, 250);
+    text-shadow: 0.50em 0.50em 0.50em rgba(9, 20, 167, 0.705);
+}

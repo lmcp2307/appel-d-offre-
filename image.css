@@ -1,0 +1,47 @@
+
+div {
+    display: flex;  
+    justify-content: left; 
+}
+
+.conteneur {
+    display: flex;
+    align-items: left;
+    gap: 10px;
+}
+
+.texte2 {
+    display: flex;
+    align-items: left;
+    gap: 10px;
+}
+
+.texte3 {
+    display: flex;
+    align-items: left;
+    gap: 100px;
+}
+
+.texte4 {
+    display: flex;
+    align-items: right;
+    gap: 1px;
+}
+
+.school {
+    display: block;
+    align-items: left;
+    gap: -5001px;
+}
+
+.Ryoshu {
+    border-left: -10px;
+    border-right: 5px;
+    padding-right:  -5000px;
+    background-color:rgba(0, 0, 0, 0.685); ;
+}
+
+.heng{
+    border: 1;
+    background-color: rgba(0, 0, 0, 0.685);
+}
