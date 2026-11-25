@@ -6,7 +6,7 @@ div {
     text-align: right;
 }
 h2{
-    text-align: center;
+    text-align: left;
 }
 h1{
     text-align: center;
@@ -17,9 +17,12 @@ ul{
 image{
     text-align:  justify;
 }
+.p1{
+    text-align: center;
+}
 p{
-    text-align:  center;
-}  
+   Text-align: center;
+}   
 p{
     font-family:  Arial,sans-serif;
 }   
@@ -126,7 +129,7 @@ a{
 
 body{
     background-image: url(https://static.vecteezy.com/system/resources/previews/077/414/694/non_2x/futuristic-digital-technology-network-connection-with-plexus-and-wave-flow-modern-global-communication-and-big-data-visualization-design-for-science-and-innovation-vector.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 nav {
